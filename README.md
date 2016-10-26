@@ -11,9 +11,20 @@ Index
 
 ### 1. Installation
 
+
 ```
 git clone https://github.com/linnovate/openideal.git
 cd openideal
+```
+this drush command will create new profile on the profiles directory 
+with all neccassary modules and features.
+
+it's working good with drush 5. if you have drush 7 
+copy the idea directory that created by drush command from 
+sites/all/modules/ to profiles/
+and copy the sites/all/modules/contrib directory to profiles/idea/modules
+
+```
 drush make build-openideal.make drupal
 ```
 To view the site go to http://{yourdomain}/drupal
