@@ -1,0 +1,23 @@
+name = OpenideaL development tools
+description = Development tools and modules. Do not activate on production.
+core = 7.x
+package = OpenideaL 
+php = 5.2.4
+dependencies[] = admin_menu
+dependencies[] = devel
+dependencies[] = diff
+dependencies[] = ftools
+features[features_api][] = api:1
+
+
+; Information added by drush on 2016-02-08
+version = "7.x-2.7+0-dev"
+core = "7.x"
+project = "idea"
+datestamp = "1454925739"
+
+
+; Information added by drush on 2016-10-13
+version = "7.x-3.x-dev"
+project = "idea"
+datestamp = "1476361148"

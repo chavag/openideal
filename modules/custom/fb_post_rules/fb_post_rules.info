@@ -1,0 +1,21 @@
+name = Post to Facebook wall
+description = "Rules module integration - posting nodes to Facebook."
+core = 7.x
+dependencies[] = rules
+dependencies[] = fbconnect
+
+package = openideaL
+
+
+
+; Information added by drush on 2016-02-08
+version = "7.x-2.7+0-dev"
+core = "7.x"
+project = "idea"
+datestamp = "1454925739"
+
+
+; Information added by drush on 2016-10-13
+version = "7.x-3.x-dev"
+project = "idea"
+datestamp = "1476361148"

@@ -1,0 +1,23 @@
+name = Ideal Blocks
+description = Adds various blocks
+core = 7.x
+php = 5.3
+package = openideaL
+
+dependencies[] = entity
+dependencies[] = votingapi
+dependencies[] = statistics
+
+
+
+; Information added by drush on 2016-02-08
+version = "7.x-2.7+0-dev"
+core = "7.x"
+project = "idea"
+datestamp = "1454925739"
+
+
+; Information added by drush on 2016-10-13
+version = "7.x-3.x-dev"
+project = "idea"
+datestamp = "1476361148"

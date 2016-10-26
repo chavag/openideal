@@ -1,0 +1,20 @@
+name = Panels bootstrap layouts builder
+description = bootstrap layout builder for panels.
+core = 7.x
+
+dependencies[] = panels
+dependencies[] = libraries
+dependencies[] = jquery_update
+
+
+; Information added by drush on 2016-02-08
+version = "7.x-2.7+0-dev"
+core = "7.x"
+project = "idea"
+datestamp = "1454925739"
+
+
+; Information added by drush on 2016-10-13
+version = "7.x-3.x-dev"
+project = "idea"
+datestamp = "1476361148"

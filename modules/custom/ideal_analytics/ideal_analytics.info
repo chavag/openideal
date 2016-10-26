@@ -1,0 +1,22 @@
+name = Ideal analytics
+description = Ideal analytics.
+core = 7.x
+package = openideaL
+
+dependencies[] = google_chart_tools
+dependencies[] = analytics_dashboard
+stylesheets[all][] = ideal_analytics.css
+
+
+
+; Information added by drush on 2016-02-08
+version = "7.x-2.7+0-dev"
+core = "7.x"
+project = "idea"
+datestamp = "1454925739"
+
+
+; Information added by drush on 2016-10-13
+version = "7.x-3.x-dev"
+project = "idea"
+datestamp = "1476361148"
