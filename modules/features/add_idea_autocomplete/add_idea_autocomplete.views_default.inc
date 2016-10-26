@@ -29,7 +29,7 @@ function add_idea_autocomplete_views_default_views() {
   $handler->display->display_options['cache']['results_lifespan'] = '518400';
   $handler->display->display_options['cache']['output_lifespan'] = '518400';
   $handler->display->display_options['query']['type'] = 'views_query';
-  $handler->display->display_options['query']['options']['disable_sql_rewrite'] = TRUE;
+  $handler->display->display_options['query']['options']['disable_sql_rewrite'] = FALSE;
   $handler->display->display_options['exposed_form']['type'] = 'basic';
   $handler->display->display_options['pager']['type'] = 'none';
   $handler->display->display_options['style_plugin'] = 'default';
