@@ -10,8 +10,11 @@ datestamp = 1454925739
 features[ctools][] = views:views_default:3.0
 features[features_api][] = api:2
 features[views_view][] = all_ideas_titles
+<<<<<<< HEAD
 
 ; Information added by drush on 2016-10-13
 version = "7.x-3.x-dev"
 project = "idea"
 datestamp = "1476361148"
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4

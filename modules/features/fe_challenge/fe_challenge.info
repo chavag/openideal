@@ -77,8 +77,11 @@ features_exclude[dependencies][views] = views
 features_exclude[dependencies][entity] = entity
 features_exclude[variable][i18n_node_extended_challenge] = i18n_node_extended_challenge
 features_exclude[variable][i18n_node_options_challenge] = i18n_node_options_challenge
+<<<<<<< HEAD
 
 ; Information added by drush on 2016-10-13
 version = "7.x-3.x-dev"
 project = "idea"
 datestamp = "1476361148"
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4

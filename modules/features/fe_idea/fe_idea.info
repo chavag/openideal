@@ -152,8 +152,11 @@ features[views_view][] = ideas_by_category
 features[views_view][] = ideas_in_action
 features[views_view][] = merged_ideas
 features_exclude[taxonomy][hashtags] = hashtags
+<<<<<<< HEAD
 
 ; Information added by drush on 2016-10-13
 version = "7.x-3.x-dev"
 project = "idea"
 datestamp = "1476361148"
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4

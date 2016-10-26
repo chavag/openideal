@@ -40,6 +40,14 @@ function sheatufim_preprocess_page(&$variables) {
 
   $toboggan_denied = in_array('page__toboggan__denied', $variables['theme_hook_suggestions']);
 
+<<<<<<< HEAD
+=======
+  if ((arg(0) == 'user' && in_array(arg(1), array('login', 'register', 'password'))) ||
+   $toboggan_denied) {
+    $logo_section = panels_mini_block_view('sheatufim_logo') ;
+    $variables['logo_section'] = $logo_section['content'];
+  }
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4
 
   if ($toboggan_denied && $user->uid == 0) {
     $variables['theme_hook_suggestions'][] = 'page__user__login';

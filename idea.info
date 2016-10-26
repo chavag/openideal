@@ -85,6 +85,10 @@ dependencies[] = views_ui
 dependencies[] = views_bootstrap
 dependencies[] = voting_rules
 dependencies[] = vud_field
+<<<<<<< HEAD
+=======
+dependencies[] = watcher
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4
 dependencies[] = webform
 dependencies[] = social_buttons
 dependencies[] = wysiwyg_filter
@@ -111,6 +115,7 @@ dependencies[] = i18n_taxonomy
 dependencies[] = i18n_translation
 dependencies[] = i18n_user
 dependencies[] = i18n_variable
+<<<<<<< HEAD
 dependencies[] = diff
 dependencies[] = features_diff
 dependencies[] = uuid
@@ -118,6 +123,8 @@ dependencies[] = uuid_features
 ;dependencies[] = google_analytics
 ;dependencies[] = fbconnect
 ;dependencies[] = simple_fb_connect
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4
 
 ;customs
 dependencies[] = ideal_main
@@ -146,9 +153,12 @@ dependencies[] = fe_sidebar_first
 dependencies[] = fe_head_banner
 dependencies[] = fe_member
 
+<<<<<<< HEAD
 ;contribs
 dependencies[] = watcher
 
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4
 files[] = openideal.profile
 
 ; Information added by Drupal.org packaging script on 2014-01-18
@@ -164,8 +174,11 @@ core = "7.x"
 project = "idea"
 datestamp = "1454925739"
 
+<<<<<<< HEAD
 
 ; Information added by drush on 2016-10-13
 version = "7.x-3.x-dev"
 project = "idea"
 datestamp = "1476361148"
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4

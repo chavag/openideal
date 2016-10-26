@@ -43,8 +43,11 @@ features[rules_config][] = rules_create_message_for_new_user
 features[variable][] = field_bundle_settings_message__new_comment
 features[variable][] = field_bundle_settings_message__new_idea
 features[views_view][] = activity
+<<<<<<< HEAD
 
 ; Information added by drush on 2016-10-13
 version = "7.x-3.x-dev"
 project = "idea"
 datestamp = "1476361148"
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4

@@ -84,6 +84,7 @@ core = "7.x"
 project = "socrates"
 datestamp = "1432019042"
 
+<<<<<<< HEAD
 
 ; Information added by drush on 2016-10-10
 version = "7.x-3.x-dev"
@@ -93,3 +94,5 @@ datestamp = "1476096349"
 version = "7.x-3.x-dev"
 project = "idea"
 datestamp = "1476361148"
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4

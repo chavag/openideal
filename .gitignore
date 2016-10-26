@@ -2,7 +2,10 @@
 sites/*/settings*.php
 
 # Ignore paths that contain user-generated content.
+<<<<<<< HEAD
 modules/contrib
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4
 sites/*/files
 sites/*/private
 /nbproject/private/

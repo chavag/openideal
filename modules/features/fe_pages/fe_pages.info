@@ -47,8 +47,11 @@ features[views_view][] = challenges_featured_front
 features[views_view][] = community
 features[views_view][] = head_to_head_ideas
 features[views_view][] = highlighted_content
+<<<<<<< HEAD
 
 ; Information added by drush on 2016-10-13
 version = "7.x-3.x-dev"
 project = "idea"
 datestamp = "1476361148"
+=======
+>>>>>>> beec0b12bf57986c933de107d5b143b1b43f72f4
